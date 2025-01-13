@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/soumodwip-mondal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/soumodwip" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </p>
 
 <h3 align="center">💻 Languages and Tools</h3>
