@@ -19,10 +19,10 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,java,python,c,git,postman,mongodb,nextjs,ts&theme=dark" alt="Skills" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=soumodwip-mondal&theme=nord&no-frame=true&margin-w=15" /> </div>
-📌 Featured Projects
-<div align="center"> <a href="https://github.com/soumodwip-mondal/project-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumodwip-mondal&repo=project-1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/soumodwip-mondal/project-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumodwip-mondal&repo=project-2&theme=tokyonight&hide_border=true" /> </a> </div>
+🔥 GitHub Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=soumodwip-mondal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Chart" /> </div>
+🎧 Currently Listening To
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div>
 📚 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 The Future of Web Development - 2025 Trends
@@ -33,6 +33,4 @@ Building Scalable Backend Services with Node.js
 
 <!-- BLOG-POST-LIST:END -->
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumodwip-mondal&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Graph" /> </div>
-🎧 Currently Listening To
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumodwip-mondal&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Graph" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%" /> </div>
