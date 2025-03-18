@@ -19,9 +19,24 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,java,python,c,git,postman,mongodb,nextjs,ts&theme=dark" alt="Skills" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" /> </div>
-🔥 GitHub Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=soumodwip-mondal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Chart" /> </div>
-🎧 Currently Listening To
+## 📊 Commits Heatmap
+
+<div align="center">
+  
+  ![GitHub Contribution Heatmap](https://raw.githubusercontent.com/soumodwip-mondal/soumodwip-mondal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Contribution Heatmap](https://raw.githubusercontent.com/soumodwip-mondal/soumodwip-mondal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+</div>
+
+<div align="center">
+  
+  <!-- Option 1: Calendar Heatmap -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" />
+  
+  <!-- Option 2: Another style of contribution visualization -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumodwip-mondal&theme=tokyonight" width="98%" alt="Activity Graph" />
+  
+</div>
 <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div>
 📚 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
