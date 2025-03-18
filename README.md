@@ -1,60 +1,40 @@
-<h1 align="center">Hi 👋, I'm Soumodwip</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 👨‍💻 Soumodwip Mondal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumodwip-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="soumodwip-mondal" />
-</p>
-
-
-<h3 align="center">🚀 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/soumodwip-mondal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<h3 align="center">💻 Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman;Continuous+Learner" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/soumodwip-mondal"><img src="https://komarev.com/ghpvc/?username=soumodwip-mondal&style=for-the-badge&color=6C63FF"></a>
+  <a href="https://linkedin.com/in/soumodwip-mondal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://soumodwip-mondal.github.io"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+## 💫 About Me
+
+```javascript
+const soumodwip = {
+  location: "India",
+  role: "Full Stack Developer",
+  codeStack: ["JavaScript", "Python", "Java", "C"],
+  frontEnd: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+  backEnd: ["Node.js", "Express"],
+  currentlyLearning: ["TypeScript", "Next.js", "MongoDB"],
+  hobbies: ["Coding", "Problem Solving", "Learning New Technologies"],
+  funFact: "I can debug code faster than I can debug my life problems!"
+};
+<div align="center">
+  <a href="https://github.com/soumodwip-mondal/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumodwip-mondal&repo=project-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/soumodwip-mondal/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumodwip-mondal&repo=project-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumodwip-mondal&theme=tokyo-night&hide_border=true" width="98%" alt="Contribution Graph" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
