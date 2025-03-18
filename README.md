@@ -12,8 +12,6 @@
 </p>
 
 ## 💫 About Me
-
-```javascript
 const soumodwip = {
   location: "India",
   role: "Full Stack Developer",
