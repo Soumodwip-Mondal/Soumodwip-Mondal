@@ -23,7 +23,6 @@
 <div align="center">
   
   <!-- Option 1: Calendar Heatmap -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" />
   
   <!-- Option 2: Another style of contribution visualization -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumodwip-mondal&theme=tokyonight" width="98%" alt="Activity Graph" />
