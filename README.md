@@ -19,14 +19,6 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,java,python,c,git,postman,mongodb,nextjs,ts&theme=dark" alt="Skills" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" /> </div>
-## 📊 Commits Heatmap
-
-<div align="center">
-  
-  ![GitHub Contribution Heatmap](https://raw.githubusercontent.com/soumodwip-mondal/soumodwip-mondal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![GitHub Contribution Heatmap](https://raw.githubusercontent.com/soumodwip-mondal/soumodwip-mondal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
-</div>
 
 <div align="center">
   
