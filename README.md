@@ -19,7 +19,7 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,java,python,c,git,postman,mongodb,nextjs,ts&theme=dark" alt="Skills" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" /> </div>
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div>
+<div align="center"></div>
 📚 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 The Future of Web Development - 2025 Trends
