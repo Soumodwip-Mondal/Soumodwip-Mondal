@@ -11,7 +11,7 @@
 
 🔧 Backend: Node.js, Express
 
-📚 Currently learning TypeScript, Next.js, MongoDB
+📚 Currently learning TypeScript, Next.js, MongoDB, Data Analysis, Machine Learning
 
 ⚡ Fun fact: I can debug code faster than I can debug my life problems!
 
@@ -19,15 +19,6 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,java,python,c,git,postman,mongodb,nextjs,ts&theme=dark" alt="Skills" /> </div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumodwip-mondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumodwip-mondal&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodwip-mondal&layout=compact&theme=tokyonight&hide_border=true" width="58%" alt="Top Languages" /> </div>
-
-<div align="center">
-  
-  <!-- Option 1: Calendar Heatmap -->
-  
-  <!-- Option 2: Another style of contribution visualization -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumodwip-mondal&theme=tokyonight" width="98%" alt="Activity Graph" />
-  
-</div>
 <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" /> </div>
 📚 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
