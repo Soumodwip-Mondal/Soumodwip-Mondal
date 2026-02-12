@@ -135,16 +135,6 @@ High-performance RESTful API with ML recommendations, JWT authentication, and re
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodwip-Mondal/project3)
 
 </td>
-<td width="50%">
-
-### 📊 Executive Analytics Dashboard
-Interactive BI dashboard with real-time KPI tracking, predictive insights, and automated reporting.
-
-**Tech Stack:** `Power BI` `PostgreSQL` `DAX`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodwip-Mondal/project4)
-
-</td>
 </tr>
 </table>
 
