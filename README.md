@@ -127,12 +127,20 @@ Full-stack recommendation platform with collaborative filtering, personalized pr
 <tr>
 <td width="50%">
 
-### ⚙️ Intelligent Recommendation API
-High-performance RESTful API with ML recommendations, JWT authentication, and real-time processing.
+### ⚙️ Cretit Card Customer Segmentation
 
-**Tech Stack:** `FastAPI` `MongoDB` `Docker` `JWT`
+**Tech Stack:** `ML` `Pyhon` `Data Analysis`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodwip-Mondal/project3)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodwip-Mondal/Credit-Card-Customer-Segmentaion)
+
+</td>
+<td width="50%">
+
+### ⚙️ Cretit Risk Prediction Software
+
+**Tech Stack:** `Pyhon` `React` `FastAPI`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumodwip-Mondal/Credit-Card-Customer-Segmentaion)
 
 </td>
 </tr>
