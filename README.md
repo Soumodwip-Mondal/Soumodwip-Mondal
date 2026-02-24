@@ -152,7 +152,6 @@ Full-stack recommendation platform with collaborative filtering, personalized pr
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Soumodwip-Mondal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Soumodwip-Mondal&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
